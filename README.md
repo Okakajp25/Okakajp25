@@ -1,5 +1,11 @@
 ![おかかのサイト](https://okakaservice.com)
+# 自分が少しでも関わっているサーバー
+![Babelserver](https://github.com/BabelServer)
+![Syosin-MC](https://github.com/kaito02020424)
+![KaronNetWork](https://github.com/karonyt)
+![Unknown Creators Team](https://github.com/Unknown-Creators-Team)
 
+# GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okakajp25&layout=compact)
 ![views-count](https://komarev.com/ghpvc/?username=Okakajp25&style=for-the-badge)
 <p align="left"> 
@@ -7,5 +13,4 @@
   <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okakajp25&theme=slateorange&show_icons=ture" />
 </p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Okakajp25&repo=discord-mcbe-en)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Okakajp25&repo=Okakajp25)
