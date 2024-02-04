@@ -1,8 +1,8 @@
-![okaka site](https://git.okakaservice.com)
+[okaka site](https://profile.okakey.com)
 # 自分が少しでも関わっているサーバー
-![Syosin-MC](https://github.com/kaito02020424)
-![KaronNetWork](https://github.com/karonyt)
-![Unknown Creators Team](https://github.com/Unknown-Creators-Team)
+[Syosin-MC](https://github.com/kaito02020424)
+[KaronNetWork](https://github.com/karonyt)
+[Unknown Creators Team](https://github.com/Unknown-Creators-Team)
 
 # GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okakajp25&layout=compact)
