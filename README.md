@@ -4,6 +4,15 @@
 [Syosin-MC](https://github.com/kaito02020424)
 [KaronNetWork](https://github.com/karonyt)
 [Unknown Creators Team](https://github.com/Unknown-Creators-Team)
+# SNS
+## Bluesky
+[![Followers](https://badgen.org/img/bluesky/okakey.com/followers?style=flat-square)](https://bsky.app/profile/okakey.com)
+[![Posts](https://badgen.org/img/bluesky/okakey.com/posts?style=flat-square)](https://bsky.app/profile/okakey.com)
+## Zenn
+[![Likes](https://badgen.org/img/zenn/okakajp25/likes?style=flat-square)](https://zenn.dev/okakajp25)
+[![Followers](https://badgen.org/img/zenn/okakajp25/followers?style=flat-square)](https://zenn.dev/okakajp25)
+[![Articles](https://badgen.org/img/zenn/okakajp25/articles?style=flat-square)](https://zenn.dev/okakajp25)
+
 
 # GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okakajp25&layout=compact)
